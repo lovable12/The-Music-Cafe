@@ -1,0 +1,7 @@
+{
+  "name": "The Music Cafe Jashore",
+  "description": "A modern, premium restaurant website for The Music Cafe Jashore featuring online ordering, menu browsing, and a musical ambiance.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
